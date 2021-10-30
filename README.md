@@ -1,6 +1,24 @@
-# Getting Started with Create React App
+# 4 ways to Fetch API data with React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Personal study to show how is possible to consume API in multiple ways on ReactJS with Fetch, Axios, Async Await with Axios and Custom Hook useFetch
+
+## Fetch
+
+
+
+
+## Axios
+
+
+## Async Await with Fetch
+
+
+## Custom Hook useEffect
+
+
+
+<br><br><br><br>
+
 
 ## Available Scripts
 
