@@ -1,20 +1,20 @@
 # 4 ways to Fetch API data with React
 
-Personal study to show how is possible to consume API in multiple ways on ReactJS with Fetch, Axios, Async Await with Axios and Custom Hook useFetch.
+Personal study to show how is possible to consume API in multiple ways with ReactJS components with Fetch, Axios, Async Await with Axios and Custom Hook useFetch.
 In this case, was used the GitHub API, with the /users endpoint. All the 4 ways will bring the same API results, according with the infos that the user want
 to render.
 
-## Fetch
+## Fetch component
 ![fetch](https://user-images.githubusercontent.com/63374582/139533823-3d613248-a84a-4f85-99cf-56f79a9a0a6c.gif)
 
-## Axios
+## Axios component
 ![axios-fetch](https://user-images.githubusercontent.com/63374582/139533765-574fe883-2f86-4b20-bf35-01434850fb2d.gif)
 
 
-## Async Await with Axios
+## Async Await with Axios component
 ![async-await](https://user-images.githubusercontent.com/63374582/139533690-0673e168-8579-4d24-9450-d6ebcc60e77f.gif)
 
-## Custom Hook useEffect
+## Custom Hook useEffect component
 ![custom-hook-fetch](https://user-images.githubusercontent.com/63374582/139533867-0840280d-a60b-40cc-9ae1-11f65ed95960.gif)
 
 ## Result
