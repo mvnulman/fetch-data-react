@@ -10,7 +10,7 @@ In this case, was used the GitHub API, with the /users endpoint.
 ![axios-fetch](https://user-images.githubusercontent.com/63374582/139533765-574fe883-2f86-4b20-bf35-01434850fb2d.gif)
 
 
-## Async Await with Fetch
+## Async Await with Axios
 ![async-await](https://user-images.githubusercontent.com/63374582/139533690-0673e168-8579-4d24-9450-d6ebcc60e77f.gif)
 
 ## Custom Hook useEffect
